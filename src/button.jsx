@@ -1,5 +1,13 @@
 function Button() {
-  return <button>Button</button>;
+  return (
+    <button
+      style={{
+        margin: "10px",
+      }}
+    >
+      Button
+    </button>
+  );
 }
 
 export default Button;

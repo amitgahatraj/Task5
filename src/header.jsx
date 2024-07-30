@@ -2,11 +2,12 @@ function Header({ title }) {
   return (
     <div
       style={{
-        backgroundColor: "green",
+        backgroundColor: "#3498db",
         color: "white",
-        padding: "10px",
+        padding: "20px",
         textAlign: "center",
-        borderRadius: "10px",
+        borderRadius: "5px",
+        margin: "10px",
       }}
     >
       <header>
