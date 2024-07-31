@@ -17,7 +17,7 @@ function Profile({ name, age, bio }) {
         Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ut quasi nam
         voluptatibus, laborum odit rerum ipsa veritatis iste? Repellendus, dolor
         voluptate quaerat cupiditate maiores fuga quam corporis ut distinctio
-        beatae.
+        beatae.lorem.
       </p>
     </div>
   );

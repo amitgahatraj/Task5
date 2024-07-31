@@ -7,7 +7,7 @@ function Header({ title }) {
         padding: "20px",
         textAlign: "center",
         borderRadius: "5px",
-        margin: "10px",
+        margin: "11px",
       }}
     >
       <header>
